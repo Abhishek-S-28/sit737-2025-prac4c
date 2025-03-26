@@ -1,0 +1,102 @@
+{"level":"info","message":"Operation: add, Numbers: 10, 5, Result: 15"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: power, Numbers: 2, 3, Result: 8"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: modulo, Numbers: 10, 3, Result: 1"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: power, Numbers: 2, 3, Result: 8"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: power, Numbers: 2, 3, Result: 8"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: power, Numbers: 2, 3, Result: 8"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: power, Numbers: 2, 3, Result: 8"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"info","message":"Operation: modulo, Numbers: 10, 3, Result: 1"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"info","message":"Operation: modulo, Numbers: 10, 3, Result: 1"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"info","message":"Operation: modulo, Numbers: 10, 3, Result: 1"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"info","message":"Operation: modulo, Numbers: 10, 3, Result: 1"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"info","message":"Operation: modulo, Numbers: 10, 3, Result: 1"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"info","message":"Operation: modulo, Numbers: 10, 3, Result: 1"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"info","message":"Operation: modulo, Numbers: 10, 3, Result: 1"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"info","message":"Operation: modulo, Numbers: 10, 3, Result: 1"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
+{"level":"info","message":"Operation: sqrt, Numbers: 16, undefined, Result: 4"}
+{"level":"error","message":"Invalid input parameters: num1=undefined, num2=undefined"}
